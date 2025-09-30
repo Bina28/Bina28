@@ -17,6 +17,23 @@ Feel free to check out my projects below! 🚀
 
 ![Albina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bina28&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bina28&layout=compact&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=Bina28&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🚀 Latest Projects
+<div style="display: flex; justify-content: center; gap: 50; margin-top: 30;">
+  <a href="https://github.com/Bina28/portfolio">
+    <img src="images/portfolio.png" width="160" />
+  </a>
+  <a href="https://github.com/Bina28/studybuddy">
+    <img src="images/studybuddy.png" width="160" />
+  </a>
+  <a href="https://github.com/Bina28/omnium">
+    <img src="images/omnifood.png" width="160" />
+  </a>
+  <a href="https://github.com/Bina28/language-app">
+    <img src="images/lla.png" width="160" />
+  </a>
+</div>
+
+
+
 
