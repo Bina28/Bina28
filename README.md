@@ -26,10 +26,10 @@ Feel free to check out my projects below! 🚀
   <a href="https://github.com/Bina28/studybuddy">
     <img src="images/studybuddy.png" width="160" />
   </a>
-  <a href="https://github.com/Bina28/omnium">
+  <a href="https://github.com/Bina28/omnifood">
     <img src="images/omnifood.png" width="160" />
   </a>
-  <a href="https://github.com/Bina28/language-app">
+  <a href="https://github.com/Bina28/languagelearningapp">
     <img src="images/lla.png" width="160" />
   </a>
 </div>
