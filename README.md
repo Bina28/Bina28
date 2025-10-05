@@ -65,6 +65,9 @@ Feel free to check out my projects below! 🚀
   <a href="https://github.com/Bina28/languagelearningapp">
     <img src="images/lla.png" width="160" />
   </a>
+  <a href="https://animated-gelato-8a2e41.netlify.app/mixer">
+  <img width="2502" height="1324" alt="image" src="https://github.com/user-attachments/assets/994461a1-c3b0-4eef-8d95-6a1bca09a143" />
+ </a>
 </div>
 
 
